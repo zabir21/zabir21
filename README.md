@@ -12,6 +12,6 @@
 ![DAPPER](https://img.shields.io/badge/DAPPER%20%20-yellow?style=for-the-badge&logo=DAPPER)
 
 ## Links with me
-[Tg:] zabir99
-[LinkedIn:] https://www.linkedin.com/in/zabir2104/
-[Email:] zabir9921@gmail.com
+![Tg:] (zabir99)
+![LinkedIn:] (https://www.linkedin.com/in/zabir2104/)
+![Email:] (zabir9921@gmail.com)
