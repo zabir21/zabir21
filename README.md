@@ -1,6 +1,6 @@
 [![Header](https://github.com/zabir21/zabir21/blob/main/assets/Zabir.png)](https://www.linkedin.com/in/zabir2104/)
 
-## I`m a beginner Software Engeneer
+## I`m Software Engeneer
 
 ### Languages
 ![.NET](https://img.shields.io/badge/.NET%20%20-red?style=for-the-badge&logo=.NET)
