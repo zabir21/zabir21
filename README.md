@@ -10,3 +10,8 @@
 ![Sql](https://img.shields.io/badge/SQL%20%20-green?style=for-the-badge&logo=Sql)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS%20%20-grey?style=for-the-badge&logo=HTML/CSS)
 ![DAPPER](https://img.shields.io/badge/DAPPER%20%20-yellow?style=for-the-badge&logo=DAPPER)
+
+## Links with me
+Tg: zabir99
+LinkedIn: https://www.linkedin.com/in/zabir2104/
+Email: zabir9921@gmail.com
