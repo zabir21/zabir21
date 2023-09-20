@@ -17,3 +17,5 @@ Tg: zabir99
 LinkedIn: https://www.linkedin.com/in/zabir2104/
 ##
 Email: zabir9921@gmail.com
+
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/zabir9921/)https://leetcode.com/zabir9921/?theme=dark)
