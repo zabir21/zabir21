@@ -18,4 +18,4 @@ LinkedIn: https://www.linkedin.com/in/zabir2104/
 ##
 Email: zabir9921@gmail.com
 
-![(https://leetcode.com/zabir9921/?theme=unicorn)]
+![Leetcode Stats](https://leetcard.zabir9921/?theme=unicorn)
