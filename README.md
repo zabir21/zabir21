@@ -1,4 +1,4 @@
-[![Header](https://github.com/zabir21/33.png)](https://www.linkedin.com/in/zabir2104/)
+[![Header](https://github.com/zabir21/assets/33.png)](https://www.linkedin.com/in/zabir2104/)
 
 ## I`m Software Engeneer
 
